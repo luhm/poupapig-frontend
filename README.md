@@ -1,4 +1,5 @@
 # poupapig-frontend
+
 Frontend repository for the PoupaPig project.
 
 PoupaPig is a personal finances management project.
@@ -25,4 +26,3 @@ Please make sure to update tests as appropriate.
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-
